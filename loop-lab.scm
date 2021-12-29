@@ -1,7 +1,3 @@
-;; Sage Magras
-;; Lab Exercise: Variable-Length Processes
-;; CS 1581 Honors Computer Science I
-;; <Fall 2021>
 
 (module loop-lab racket
 
