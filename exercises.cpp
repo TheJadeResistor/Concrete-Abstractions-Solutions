@@ -1,8 +1,3 @@
-/*
- * File:   exercises.cpp
- * Author: <Sage Magras>
- * Course: CS 1581 Honors Computer Science 1
- */
 
 #include <math.h>
 #include <iostream>
