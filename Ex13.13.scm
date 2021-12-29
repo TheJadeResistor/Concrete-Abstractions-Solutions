@@ -1,7 +1,3 @@
-;; <Sage Magras>
-;; Lab Exercise 10 -- Text Exercise 13.13
-;; CS 1581 Honors Computer Science I
-;; Fall 2021
 
 (module Ex13.13 racket
 
