@@ -1,7 +1,3 @@
-;; <Sage Magras>
-;; Lab Exercise 5
-;; CS 1581 Honors Computer Science I
-;; <Fall, 2021>
 
 (module lab05 racket
 
