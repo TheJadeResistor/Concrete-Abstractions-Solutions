@@ -1,7 +1,3 @@
-;; <Sage Magras>
-;; Assignment 4
-;; CS 1581 Honors Computer Science I
-;; <Fall, 2021>
 
 (module assignment4 racket
 
