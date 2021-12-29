@@ -1,8 +1,3 @@
-/*
- * File:   queueMain.cpp
- * Author: Sage Magras
- *
- */
 
 #include <stdlib.h>
 #include <iostream>
